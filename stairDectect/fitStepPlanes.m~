@@ -1,0 +1,4 @@
+function stepPlanes=fitStepPlanes(uvdPoints, step_locs, xyzGP, baseline, intrinsics, eps)
+color1=
+
+end

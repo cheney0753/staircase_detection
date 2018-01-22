@@ -1,0 +1,27 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=mex 2014.1.9)  16 MAY 2014 10:15
+entering extended mode
+ %&-line parsing enabled.
+**CXX=g++-4.4 CXXFLAGS=-Wall -O3 --fast-math -fPIC  -ftree-vectorize  -funroll-
+loops -I   -I/usr/local/stow/OpenCV-2.4.3/include/opencv -I/usr/local/stow/Open
+CV-2.4.3/include   -I/usr/local/stow/OpenCV-2.4.3/include/opencv -I/usr/local/s
+tow/OpenCV-2.4.3/include -ILAPACK/ -lblas -llapack -lm /usr/local/stow/OpenCV-2
+.4.3/lib/libopencv_calib3d.so /usr/local/stow/OpenCV-2.4.3/lib/libopencv_contri
+b.so /usr/local/stow/OpenCV-2.4.3/lib/libopencv_core.so /usr/local/stow/OpenCV-
+2.4.3/lib/libopencv_features2d.so /usr/local/stow/OpenCV-2.4.3/lib/libopencv_fl
+ann.so /usr/local/stow/OpenCV-2.4.3/lib/libopencv_gpu.so /usr/local/stow/OpenCV
+-2.4.3/lib/libopencv_highgui.so /usr/local/stow/OpenCV-2.4.3/lib/libopencv_imgp
+roc.so /usr/local/stow/OpenCV-2.4.3/lib/libopencv_legacy.so /usr/local/stow/Ope
+nCV-2.4.3/lib/libopencv_ml.so /usr/local/stow/OpenCV-2.4.3/lib/libopencv_nonfre
+e.so /usr/local/stow/OpenCV-2.4.3/lib/libopencv_objdetect.so /usr/local/stow/Op
+enCV-2.4.3/lib/libopencv_photo.so /usr/local/stow/OpenCV-2.4.3/lib/libopencv_st
+itching.so /usr/local/stow/OpenCV-2.4.3/lib/libopencv_ts.so /usr/local/stow/Ope
+nCV-2.4.3/lib/libopencv_video.so /usr/local/stow/OpenCV-2.4.3/lib/libopencv_vid
+eostab.so /usr/local/stow/OpenCV-2.4.3/lib/libopencv_world.so -lmwlapack -DMATL
+AB mxEdgelink.cpp -o mxEdgelink
+
+! Emergency stop.
+<*> CXX=g++-4.4 
+                CXXFLAGS=-Wall -O3 --fast-math -fPIC  -ftree-vectorize  -fun...
+End of file on the terminal!
+
+No pages of output.
